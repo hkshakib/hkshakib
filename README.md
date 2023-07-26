@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkshakib" alt="hkshakib" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Bidding Site]((https://github.com/hkshakib/auctionfrontend) https://github.com/hkshakib/auctionbackend)
+- 🔭 I’m currently working on [Full Stack Bidding Site]((https://github.com/hkshakib/projectmanager)
 
 - 🌱 I’m currently learning **Django Rest and FastAPI**
 
